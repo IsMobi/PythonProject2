@@ -15,4 +15,6 @@ if __name__ == '__main__':
 
     print_hi('Update in leader')
 
+    print_hi('Update in local B')
+
 # https://www.jetbrains.com/help/pycharm/에서 PyCharm 도움말 참조
