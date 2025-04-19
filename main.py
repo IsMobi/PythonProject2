@@ -13,4 +13,5 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('Hello World 1 in team Leader server')
 
+    print_hi('Update in leader')
 # https://www.jetbrains.com/help/pycharm/에서 PyCharm 도움말 참조
